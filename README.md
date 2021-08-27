@@ -1,4 +1,4 @@
 # devops-aula04
-Duro de Matar
-Robocop
-Rambo
+1- Duro de Matar
+2- Robocop
+3- Rambo
